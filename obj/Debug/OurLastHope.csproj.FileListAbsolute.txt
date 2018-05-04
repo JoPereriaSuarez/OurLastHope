@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\bin\Debug\OurLastHope.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\bin\Debug\OurLastHope.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\bin\Debug\OurLastHope.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\obj\Debug\OurLastHope.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\obj\Debug\OurLastHope.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\obj\Debug\OurLastHope.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\obj\Debug\OurLastHope.pdb

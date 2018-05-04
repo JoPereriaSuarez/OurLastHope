@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\bin\Release\OurLastHope.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\bin\Release\OurLastHope.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\bin\Release\OurLastHope.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\obj\Release\OurLastHope.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\obj\Release\OurLastHope.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\OurLastHopeCLI\OurLastHope\obj\Release\OurLastHope.pdb
